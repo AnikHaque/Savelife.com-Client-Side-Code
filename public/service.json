@@ -1,0 +1,263 @@
+[
+    { 
+      "name": "Dr. Md. Firoj Hossain",
+      "designation":"Assistant Professor",
+      "reviews":43,
+      "education": [
+        "MBBS (Rangpur Medical College), 2005.",
+        "DEM (BIRDEM), 2009.",
+        "FCPS in Medicine (BCPS), 2015.",
+        "MD in Endocrinology & Metabolism (BSMMU), 2019."  
+      ],
+      "experience": [
+        "Assistant Professor, Mugda Medical College & Hospital, Dhaka.",
+        "Jr. Consultant (Medicine), Bangladesh Secretariat Clinic, 2019.",
+        "Resident (Endocrinology), Bangabandhu Sheikh Mujib Medical University (BSMMU), 2014-2019.",
+        "Assistant Registrar (Medicine), Cumilla Medical College & Hospital, 2011- 2013.",  
+        "Assistant Surgeon, Upazilla Health Complex, Sreenagar, Munshiganj, 2009-2011.",
+        "Resident (Endocrinology), BIRDEM, 2008-2009.",
+        "HMO (Medicine), Dhaka Medical College & Hospital, 2007-2008." 
+      ],
+      "training": [
+        "Life member of Bangladesh Endocrine Society.",
+        "General Member of Association of Clinical Endocrinology & Diabetology, Bangladesh.",
+        "Member of American Association of Clinical Endocrinology."
+      ],
+      "books": [
+        "N/A"
+      ],
+      "fees":19,
+      "location":"California,USA",
+      "hospital":"Mugda Medical College & Hospital",
+      "department":"Department of Endocrinology",
+      "image":"https://doccure.dreamguystech.com/html/template/assets/img/doctors/book-doctor-13.jpg",
+      "specialization":"Medicine, Diabetes, Thyroid & Hormone Specialist",
+      "slots": [
+        "08.00 AM - 08.30 AM",
+        "08.30 AM - 09.00 AM",
+        "09.00 AM - 9.30 AM",
+        "09.30 AM - 10.00 AM",
+        "10.00 AM - 10.30 AM",
+        "10.30 AM - 11.00 AM",
+        "11.00 AM - 11.30 PM",
+        "11.30 AM - 12.00 PM",
+        "4.00 PM - 4.30 PM",
+        "4.30 PM - 5.00 PM",
+        "5.00 PM - 5.30 PM",
+        "5.30 PM - 6.00 PM",
+        "6.00 PM - 6.30 PM",
+        "6.30 PM - 7.00 PM",
+        "7.00 PM - 7.30 PM"
+      ]
+    },
+    { 
+      "name": "Ms. Jayoti Mukherjee",
+      "designation":"Senior Nutrition Consultant",
+      "reviews":63,
+      "education": [
+        "UGC-NET Qualified in JUNE 2019 with a percentile score of 97.97.",
+        "M.Sc. in Nutrition in 2019.",
+        "Two year National Service Scheme Course in Graduation."  
+      ],
+      "training": [
+        "Participated in Ministry of Women and Child Welfare Nutrition awareness program in 2017.",
+        "Participated in NON-ALCOHOLIC FATTY LIVER DISEASE : 2ND NATIONAL CONCLAVE ON EMERGING THERAPIES in 2018.",
+        "Participated in Two-Day Workshop on “Health and Wellness”- Essence of Good Life in 2019.",
+        "Participated in Legal Awareness one day Training Program in 2015.",
+        "Participated in National Conference, on ENVIORNMENTAL POLLUTION : BURDEN AND STRATEGIES FOR CONTROL in 2018.",
+        "Participated in A NATIONAL SEMINAR ON AFFORDABLE HEALTH CARE, organized by Department of Trauma Surgery and Association of Research Professionals at KGMU in 2018."
+      ],
+      "books": [
+        "Risk Factors Facilitating Non-Alcoholic Fatty Liver Disease in OPD patients (Dissertation) in 2019 at Post-Graduate level."
+      ],
+      "fees":25,
+      "location":"Newyork, USA",
+      "hospital":"Ex- VLCC Healthcare & VIBES Healthcare",
+      "department":"Surecell Medical BD",
+      "image":"https://doccure.dreamguystech.com/html/template/assets/img/doctors/book-doctor-14.jpg",
+      "specialization":"Nutrition and Food Science",
+      "slots": [
+        "08.00 AM - 08.30 AM",
+        "08.30 AM - 09.00 AM",
+        "09.00 AM - 9.30 AM",
+        "09.30 AM - 10.00 AM",
+        "10.00 AM - 10.30 AM",
+        "10.30 AM - 11.00 AM",
+        "11.00 AM - 11.30 PM",
+        "11.30 AM - 12.00 PM",
+        "4.00 PM - 4.30 PM",
+        "4.30 PM - 5.00 PM",
+        "5.00 PM - 5.30 PM",
+        "5.30 PM - 6.00 PM",
+        "6.00 PM - 6.30 PM",
+        "6.30 PM - 7.00 PM",
+        "7.00 PM - 7.30 PM"
+      ]
+    },
+    { 
+      "name": "Dr. Rajib Kumar Saha",
+      "designation":"Consultant",
+      "reviews":20,
+      "education": [
+        "MBBS degree from Sir Salimullah Medical College and Mitford Hospital (SSMCH).",
+        "MRCP (UK) from Royal College Physicians of United Kingdom, London and MCPS (Medicine) from Bangladesh College of Physicians and Surgeons.",
+        "MD (Chest) from National Institute of Diseases of the Chest and Hospital, Dhaka (NIDCH).",
+        "Asian pacific society of respiratory medicine in Vietnam; Advance course on interventional pulmonology in Chennai, India and Interventional pulmonology, pulmonary function test in NIDCH.",
+        "Consultant of Respiratory Medicine in SSMCH; COVID-Center, Mohanagar General Hospital; Ibn Sina and Medinova Medical Services.",
+        "Asgar Ali Hospital as Consultant-Respiratory Medicine and serving patients regularly." 
+      ],
+      "training": [
+        "He is skilled in performing Interventional Pulmonology namely Fiber optic bronchoscopy (FOB), Bronchial biopsy, Pleuroscopy & pleural biopsy, Thoracocentesis, Chest tube insertion and Endotracheal intubation.",
+        "Dr. Saha also participated in different conferences and seminars in home and abroad."
+      ],
+      "books": [
+        "N/A"
+      ],
+      "fees":30,
+      "location":"California,USA",
+      "hospital":"ASGAR ALI HOSPITAL",
+      "department":"Department of Respiratory Medicine",
+      "image":"https://doccure.dreamguystech.com/html/template/assets/img/doctors/book-doctor-15.jpg",
+      "specialization":"Medicine & Chest Specialist and Interventional Pulmonologist",
+      "slots": [
+        "08.00 AM - 08.30 AM",
+        "08.30 AM - 09.00 AM",
+        "09.00 AM - 9.30 AM",
+        "09.30 AM - 10.00 AM",
+        "10.00 AM - 10.30 AM",
+        "10.30 AM - 11.00 AM",
+        "11.00 AM - 11.30 PM",
+        "11.30 AM - 12.00 PM",
+        "4.00 PM - 4.30 PM",
+        "4.30 PM - 5.00 PM",
+        "5.00 PM - 5.30 PM",
+        "5.30 PM - 6.00 PM",
+        "6.00 PM - 6.30 PM",
+        "6.30 PM - 7.00 PM",
+        "7.00 PM - 7.30 PM"
+      ]
+    },
+    { 
+      "name": "Dr. Salina Mahmud",
+      "designation":"Associate Professor",
+      "reviews":36,
+      "education": [
+        "MBBS from Mymensingh Medical College under Dhaka University (DU) in 2000.",
+        "In 2010, he completed his MD (Pediatrics) from Bangabandhu Sheikh Mujib Medical University, Dhaka."
+      ],
+      "training": [
+        "workshop on Moderate Acute Malnutrition,Dhaka Shishu Hospital.",
+        "Workshop on Nutrition,Guwahati,India.",
+        "Motility Workship,New Delhi,India.",
+        "workshop on Severe Acute Malnutrition,Dhaka Shishu Hospital."
+      ],
+      "books": [
+        "Surface antigen (HBsAg) Negative Hepatitis B Virus in Bangladesh: Warrants for the Screening of Blood Donors.",
+        " Etiology and outcome of neonatal cholestasis: an experience in a tertiary center of Bangladesh."
+      ],
+      "fees":21,
+      "location":"California,USA",
+      "hospital":"Dhaka Shishu (Children) Hospital",
+      "department":"Department of Pediatric  Gastroenterology",
+      "image":"https://doccure.dreamguystech.com/html/template/assets/img/doctors/book-doctor-16.jpg",
+      "specialization":"Neonate & Child Specialist",
+      "slots": [
+        "08.00 AM - 08.30 AM",
+        "08.30 AM - 09.00 AM",
+        "09.00 AM - 9.30 AM",
+        "09.30 AM - 10.00 AM",
+        "10.00 AM - 10.30 AM",
+        "10.30 AM - 11.00 AM",
+        "11.00 AM - 11.30 PM",
+        "11.30 AM - 12.00 PM",
+        "4.00 PM - 4.30 PM",
+        "4.30 PM - 5.00 PM",
+        "5.00 PM - 5.30 PM",
+        "5.30 PM - 6.00 PM",
+        "6.00 PM - 6.30 PM",
+        "6.30 PM - 7.00 PM",
+        "7.00 PM - 7.30 PM"
+      ]
+    }, 
+    { 
+      "name": "Dr. Humaira Afreen",
+      "designation":"Assistant Professor",
+      "reviews":72,
+      "education": [
+        "UGC-NET Qualified in JUNE 2019 with a percentile score of 97.97.",
+        "M.Sc. in Nutrition in 2019.",
+        "Two year National Service Scheme Course in Graduation."  
+      ],
+      "training": [
+        "Participated in Ministry of Women and Child Welfare Nutrition awareness program in 2017.",
+        "Participated in NON-ALCOHOLIC FATTY LIVER DISEASE : 2ND NATIONAL CONCLAVE ON EMERGING THERAPIES in 2018.",
+        "Participated in Two-Day Workshop on “Health and Wellness”- Essence of Good Life in 2019.",
+        "Participated in Legal Awareness one day Training Program in 2015",
+        "Participated in National Conference, on ENVIORNMENTAL POLLUTION : BURDEN AND STRATEGIES FOR CONTROL in 2018.",
+        "Participated in A NATIONAL SEMINAR ON AFFORDABLE HEALTH CARE, organized by Department of Trauma Surgery and Association of Research Professionals at KGMU in 2018."
+      ],
+      "books": [
+        "Risk Factors Facilitating Non-Alcoholic Fatty Liver Disease in OPD patients (Dissertation) in 2019 at Post-Graduate level."
+      ],
+      "fees":40,
+      "location":"California,USA",
+      "hospital":"SSMC Mitford Hospital, Dhaka",
+      "department":"Skin & VD Department",
+      "image":"https://doccure.dreamguystech.com/html/template/assets/img/doctors/book-doctor-16.jpg",
+      "specialization":"Dermatologist (Skin, Allergy, Hair, Sex)",
+      "slots": [
+        "08.00 AM - 08.30 AM",
+        "08.30 AM - 09.00 AM",
+        "09.00 AM - 9.30 AM",
+        "09.30 AM - 10.00 AM",
+        "10.00 AM - 10.30 AM",
+        "10.30 AM - 11.00 AM",
+        "11.00 AM - 11.30 PM",
+        "11.30 AM - 12.00 PM",
+        "4.00 PM - 4.30 PM",
+        "4.30 PM - 5.00 PM",
+        "5.00 PM - 5.30 PM",
+        "5.30 PM - 6.00 PM",
+        "6.00 PM - 6.30 PM",
+        "6.30 PM - 7.00 PM",
+        "7.00 PM - 7.30 PM"
+      ]
+    },
+    { 
+      "name": "Dr. Rashedul Hasan",
+      "designation":"Consultant",
+      "reviews":16,
+      "education": [
+        "MBBS, BCS (Health) MD (Respiratory Medicine) FCPS (Medicine) Medicine & Chest Specialist National Institute of Disease of the Chest & Hospital. Mohakhali,Dhaka."  
+      ],
+      "training": [
+        "N/A"
+      ],
+      "books": [
+        "N/A"
+      ],
+      "fees":20,
+      "location":"California,USA",
+      "hospital":"Prescription Point, Banani",
+      "department":"Department of Ears, Nose and Throat",
+      "image":"https://doccure.dreamguystech.com/html/template/assets/img/doctors/book-doctor-15.jpg",
+      "specialization":"Ears, Nose and Throat (ENT) Specialist",
+      "slots": [
+        "08.00 AM - 08.30 AM",
+        "08.30 AM - 09.00 AM",
+        "09.00 AM - 9.30 AM",
+        "09.30 AM - 10.00 AM",
+        "10.00 AM - 10.30 AM",
+        "10.30 AM - 11.00 AM",
+        "11.00 AM - 11.30 PM",
+        "11.30 AM - 12.00 PM",
+        "4.00 PM - 4.30 PM",
+        "4.30 PM - 5.00 PM",
+        "5.00 PM - 5.30 PM",
+        "5.30 PM - 6.00 PM",
+        "6.00 PM - 6.30 PM",
+        "6.30 PM - 7.00 PM",
+        "7.00 PM - 7.30 PM"
+      ]
+    } 
+  ]
